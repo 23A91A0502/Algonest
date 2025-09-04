@@ -20,7 +20,7 @@ Whether you’re just starting your programming journey or preparing for technic
 
 Frontend: HTML / CSS / JavaScript
 
-Deployment: GitHub
+Deployment: GitHub / Netlify
 
 📂 Project Structure
 algonest/
