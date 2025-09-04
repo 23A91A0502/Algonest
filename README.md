@@ -1,7 +1,8 @@
 🚀 Algonest – Master Coding & DSA for Interviews
 Algonest is your one-stop destination to learn, practice, and master coding, algorithms, and data structures.
 Whether you’re just starting your programming journey or preparing for technical interviews at top tech companies, Algonest gives you the structured learning path and hands-on experience you need.
-
+🌐 Live Demo
+🚀 Experience Algonest here: 👉 [**Try it now 🚀**](https://6845410517b3dfcdd2a8e77c--algonest-feelslikealearninghome.netlify.app/)
 🌟 Why Algonest?
 
 ✔️ Structured Learning – A step-by-step roadmap from basics to advanced DSA.
@@ -27,11 +28,6 @@ algonest/
 │── frontend/       # UI and client-side code  
 │── problems/       # Coding challenges & DSA sets  
 │── README.md       # Main documentation  
-
-🌐 Live Demo
-
-🚀 Experience Algonest here: 👉 [**Try it now 🚀**](https://lnkd.in/gkMtuW4X)
-
 
 ✨ Future Plans
 
